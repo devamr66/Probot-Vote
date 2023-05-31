@@ -10,4 +10,3 @@
 ### تحميل مباشر [اضغط هنا](https://github.com/Proclaim67/Probot-Vote/releases/download/votetool/Probot.Vote.zip)
 - بعد التحميل اعمل استخراج للملف في desktop و تاكد ان اسم ملف Probot Vote حتي يعمل بشكل صحيح و الاستضافه تشتغل و يحل كابتشا تلقائي 
 - 50 نجمه و انزل تحديثات قويه ⭐
-### فيديو: 
