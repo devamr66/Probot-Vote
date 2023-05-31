@@ -1,0 +1,9 @@
+requests
+Crypto.Cipher
+pycryptodome
+selenium
+selenium-wire
+undetected-chromedriver
+termcolor
+pycryptodomex
+licensing
