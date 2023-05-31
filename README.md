@@ -7,4 +7,4 @@
 - وافتح run.bat
 - فيديو (قريبا)
 ##### ( اول عربي يشرح اداه فوت بروبوت ديسكورد التلقائي تم تصميم هذا الاداه من قبل [Proclaim](https://github.com/Proclaim67/Probot-Vote) جميع الحقوق ترجع لي ممنوع بيع الملفات او نشرها بدون اذن )
-## تحميل مباشر [اضغط هنا](https://github.com/Proclaim67/Probot-Vote/releases/download/votetool/Probot.Vote.zip)
+#### تحميل مباشر [اضغط هنا](https://github.com/Proclaim67/Probot-Vote/releases/download/votetool/Probot.Vote.zip)
