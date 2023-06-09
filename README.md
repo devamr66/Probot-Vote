@@ -1,13 +1,8 @@
-#### التصويت التلقائي البروبوت ديسكورد للحصول علي كريدت ✔
-- لازم يكون عندك متصفح Brave حتي الاداه يعمل 
-- حل الكابتشا تلقائي ومايحتاج انك تسوي اي شيء بنفسك فقط يجب عليك اتباع الخطوات حتي يشتغل بدون اي مشاكل
-- الان يجب عليك تثبيت البايثون اذا لم تكون مثبت البايثون من قبل 
-- افتح install_python.bat
-- بعد الانتهاء من تثبيت البايثون افتح ملف install.bat حتي يثبت جميع المكتبات المطلوبه
-- بعد الانتهاء من تثبيت جميع المكتبات الان حط التوكنات الخاصه بك في ملف tokens.txt
-- وافتح run.bat
-##### ( اول عربي يشرح اداه فوت بروبوت ديسكورد التلقائي تم تصميم هذا الاداه من قبل [Proclaim](https://github.com/Proclaim67/Probot-Vote) جميع الحقوق ترجع لي ممنوع بيع الملفات او نشرها بدون اذن)
-- ملاحظه عشان يشتغل بدون مشكله اول شيء حمل ملف
-- تحميل مباشر [اضغط هنا](https://github.com/Proclaim67/Probot-Vote/releases/download/votetool/Probot.Vote.zip)
-- بعد التحميل اعمل استخراج للملف في desktop و تاكد ان اسم ملف Probot Vote حتي يعمل بشكل صحيح و الاستضافه تشتغل و يحل كابتشا تلقائي 
-- 50 نجمه⭐ = تحديثات
+#### [Download](https://github.com/Proclaim67/Probot-Claim-Daily-/releases/download/dailytool/DailyV2.zip)
+
+[+] Probot Daily Tool [+]
+- First, open the install_python.bat file
+- and wait for Python to finish installing.
+- After Python has finished installing, run the install.bat file.
+- Once the libraries have finished installing, 
+- open the run.bat file to start using Daily Tool
