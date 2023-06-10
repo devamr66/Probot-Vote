@@ -1,13 +1,4 @@
 requests
-Crypto.Cipher
 pycryptodome
-base64
-tempfile
-urllib.request
-subprocess
-os
-sys
-tkinter as tk
-random
-colorama import init, Fore, Style
-time
+tk
+colorama
